@@ -1,6 +1,8 @@
 [package]
 name = "mdbook-to-example"
+description = "Turns an mdbook book into a Rust example"
 version = "0.1.0"
 edition = "2021"
+license-file = "LICENSE"
 
 [dependencies]
